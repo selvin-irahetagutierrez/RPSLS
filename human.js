@@ -32,3 +32,7 @@ else {
 }
     }
 }
+
+module.exports = {
+    Human: Human
+}
