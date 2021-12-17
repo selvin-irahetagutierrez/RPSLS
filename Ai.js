@@ -16,4 +16,3 @@ class Ai extends Player{
 module.exports={
     Ai:Ai
 }
-
